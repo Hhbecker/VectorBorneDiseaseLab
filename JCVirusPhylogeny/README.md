@@ -1,1 +1,1 @@
-Repo for Jamestown Canyon Virus Phylogeny Project
+Jamestown Canyon Virus Phylogeny Project for MMCRI VBDL
