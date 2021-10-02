@@ -1,0 +1,224 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.11.20)  23 JUL 2021 10:11
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**myFirstAlignment.tex
+(./myFirstAlignment.tex
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-10-27> xparse <2020-03-03>
+(/Users/hensanity/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(/Users/hensanity/Library/TinyTeX/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count175
+\c@section=\count176
+\c@subsection=\count177
+\c@subsubsection=\count178
+\c@paragraph=\count179
+\c@subparagraph=\count180
+\c@figure=\count181
+\c@table=\count182
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/Library/Frameworks/R.framework/Versions/4.1/Resources/library/msa/tex/texshad
+e.sty
+Package: texshade 2021/04/01 LaTeX TeXshade (v1.26)
+ Package `texshade', Version 1.26 of 2021/04/01.
+(/Users/hensanity/Library/TinyTeX/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+
+(/Users/hensanity/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: dvips.def on input line 147.
+
+(/Users/hensanity/Library/TinyTeX/texmf-dist/tex/latex/graphics-def/dvips.def
+File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
+)
+(/Users/hensanity/Library/TinyTeX/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+(/Users/hensanity/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(/Users/hensanity/Library/TinyTeX/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/Users/hensanity/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/graphics.cf
+g
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/Users/hensanity/Library/TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\structurefile=\read2
+\featurefile=\write3
+\alignfile=\read3
+\sublogofile=\read4
+\exp@rtfile=\write4
+\exp@rt@chimerafile=\write5
+ (/Users/hensanity/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/Users/hensanity/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+\symalphahelix=\mathgroup6
+\loopcount=\count183
+\innerloopcount=\count184
+\outerloopcount=\count185
+\seq@count=\count186
+\killseq@count=\count187
+\seq@percent=\count188
+\res@count=\count189
+\seq@pointer=\count190
+\pos@count=\count191
+\res@perline=\count192
+\end@count=\count193
+\cons@count=\count194
+\total@count=\count195
+\temp@count=\count196
+\triple@count=\count197
+\temp@@count=\count198
+\pos@sum=\count199
+\box@width=\skip49
+\name@width=\skip50
+\box@depth=\skip51
+\width@tmp=\skip52
+\box@height=\skip53
+\number@width=\skip54
+\line@stretch=\skip55
+\center@fill=\skip56
+\arrow@width=\skip57
+\arrow@height=\skip58
+\rule@thick=\skip59
+\arrow@thick=\skip60
+\logo@height=\skip61
+\equal@width=\skip62
+\equal@tmp=\skip63
+\equal@height=\skip64
+\temp@@length=\skip65
+\vspace@legend=\skip66
+\hspace@legend=\skip67
+\bar@length=\skip68
+Package color Info: Redefining color LightGray on input line 1716.
+Package color Info: Redefining color LightLightGray on input line 1817.
+Package color Info: Redefining color LightLightLightGray on input line 1919.
+)
+(/Users/hensanity/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdft
+ex.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count266
+\l__pdf_internal_box=\box47
+) (./myFirstAlignment.aux)
+\openout1 = `myFirstAlignment.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+
+(/Users/hensanity/Library/TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-ba
+se.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/Users/hensanity/Library/TinyTeX/texmf-dist/tex/latex/latexconfig/epstopdf-sys
+.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+(/var/folders/tx/rql6p3p500qf15jhjr3t17hr0000gn/T//RtmpVPRQ3l/seq40b743bf0885.f
+asta: . . [1
+Non-PDF special ignored!
+<special> papersize=794.96999pt,614.295pt
+
+]
+Overfull \vbox (570.6222pt too high) has occurred while \output is active []
+
+
+[2{/Users/hensanity/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.ma
+p}] .
+Overfull \vbox (570.6222pt too high) has occurred while \output is active []
+
+
+[3] .
+Overfull \vbox (570.6222pt too high) has occurred while \output is active []
+
+
+[4] .
+Overfull \vbox (570.6222pt too high) has occurred while \output is active []
+
+
+[5] .
+Overfull \vbox (570.6222pt too high) has occurred while \output is active []
+
+
+[6] .
+Overfull \vbox (570.6222pt too high) has occurred while \output is active []
+
+
+[7] .
+Overfull \vbox (570.6222pt too high) has occurred while \output is active []
+
+
+[8] .
+Overfull \vbox (570.6222pt too high) has occurred while \output is active []
+
+
+[9] )
+LaTeX Font Info:    Trying to load font information for U+msa on input line 35.
+
+ (/Users/hensanity/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 35.
+
+
+(/Users/hensanity/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \vbox (570.6222pt too high) has occurred while \output is active []
+
+
+[10] [11] (./myFirstAlignment.aux) ) 
+Here is how much of TeX's memory you used:
+ 39864 strings out of 481433
+ 515048 string characters out of 5919428
+ 4352102 words of memory out of 5000000
+ 56638 multiletter control sequences out of 15000+600000
+ 537428 words of font info for 40 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 2616i,6n,72p,304b,62944s stack positions out of 5000i,500n,10000p,200000b,80000s
+</Users/hensanity/Library/TinyTeX/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Users/hensanity/Library/TinyTeX/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on myFirstAlignment.pdf (11 pages, 1003166 bytes).
+PDF statistics:
+ 48 PDF objects out of 1000 (max. 8388607)
+ 32 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
