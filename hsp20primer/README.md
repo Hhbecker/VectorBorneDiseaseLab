@@ -1,1 +1,1 @@
-Repo for Ixodes scapularis HSP20 primer design project
+Ixodes scapularis HSP20 primer design project for MMCRI VBDL
